@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Student\ class\ for\ modeling\ real\ Student.\r\n\r\n\ @author\ Upal\ Roy\r\n\ @version\ 1.0.0\r\n
+comment1.params=number
+comment1.target=void\ setNumber(int)
+comment1.text=\r\n\ Changes\ the\ number\ of\ this\ Student\r\n\ \r\n\ @param\ number\ This\ Student's\ new\ number\ \r\n
+comment2.params=
+comment2.target=int\ getNumber()
+comment2.text=\r\n\ Gets\ the\ number\ of\ this\ Student\r\n\ \r\n\ @return\ this\ Student's\ number\r\n
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment3.text=\r\n\ Changes\ the\ name\ of\ this\ Student\r\n\ \r\n\ @param\ name\ This\ Student's\ new\ name\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=\r\n\ Gets\ the\ name\ of\ this\ Student\r\n\ \r\n\ @return\ this\ Student's\ name\r\n
+comment5.params=number\ name
+comment5.target=Student(int,\ java.lang.String)
+comment5.text=\r\n\ Constructor\ for\ objects\ of\ class\ Student\r\n
+numComments=6
